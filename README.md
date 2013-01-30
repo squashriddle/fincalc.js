@@ -45,14 +45,8 @@ Calculates simple interest
 
 ## Development
 
-Clone the repo:
+Run this command in the repo to install development dependencies:
 ```
-$ git clone git@github.com:rsolomo/fincalc.js.git
-```
-
-Install the test runner:
-```
-$ cd fincalc.js
 $ npm install
 ```
 
