@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rsolomo/fincalc.js.png?branch=master)](https://travis-ci.org/rsolomo/fincalc.js)
+
 # finCalc
 
 A collection of javascript financial calculators. Works in browsers and Node.
