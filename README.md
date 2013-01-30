@@ -43,7 +43,23 @@ Calculates simple interest
   - rate - Number
   - time - Number
 
----
+## Development
+
+Clone the repo:
+```
+$ git clone git@github.com:rsolomo/fincalc.js.git
+```
+
+Install the test runner:
+```
+$ cd fincalc.js
+$ npm install
+```
+
+And run the tests:
+```
+$ npm test
+```
 
 ## License
 MIT
