@@ -2,7 +2,7 @@
   "name": "fincalc",
   "version": "0.0.0",
   "description": "A collection of financial calculators",
-  "main": "index.js",
+  "main": "fincalc.js",
   "author": "Ray Solomon <raybsolomon@gmail.com>",
   "license": "MIT",
   "devDependencies": {

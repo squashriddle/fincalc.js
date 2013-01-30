@@ -1,4 +1,4 @@
-var calc = require('../index')
+var calc = require('../fincalc')
 var assert = require('assert')
 
 describe('finCalc', function() {
